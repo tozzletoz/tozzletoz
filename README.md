@@ -1,3 +1,3 @@
 **Tozzletoz**
 
-Python/Javascript. Arch Linux user.
+Python & Javascript. Arch Linux user.
