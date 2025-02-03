@@ -1,2 +1,3 @@
-**Tozzletoz**\n
+**Tozzletoz**
+
 Python/Javascript. Arch Linux user.
